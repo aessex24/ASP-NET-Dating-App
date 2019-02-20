@@ -1,4 +1,2 @@
-node_modules
-Migrations/*
-../DatingApp.API/bin/*
-../DatingApp.API/obj/*
+.vscode
+.DS_Store
