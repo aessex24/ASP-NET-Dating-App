@@ -1,0 +1,14 @@
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.deps.json
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.json
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.dev.json
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.pdb
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csprojAssemblyReference.cache
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cache
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cs
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfoInputs.cache
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfo.cs
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/aessex/ASP-NET-Dating-App/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.pdb
